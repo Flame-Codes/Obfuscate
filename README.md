@@ -17,5 +17,5 @@ $ git clone https://github.com/Naim75o/Obfuscate
 #### RUN SCRIPT
 ```python
 $ cd Obfuscate
-$ python2 EMOJI_ENCRYPT.py
+$ python EMOJI_ENCRYPT.py
 
